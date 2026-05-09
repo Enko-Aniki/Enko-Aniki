@@ -11,7 +11,7 @@
 
 # ENKO ___gatari
 
-*"Cada bug é uma aberração. Cada solução, uma historieta que se resolve."*
+*"Cada bug é uma esquisitice. Cada solução, uma historieta que se resolve."*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=CC3366&center=true&vCenter=true&width=435&lines=Desenvolvedor+em+construção...;Estudante+FATEC+Zona+Leste;Web+%7C+Games+%7C+Code)](https://github.com/Enko-Aniki)
 
