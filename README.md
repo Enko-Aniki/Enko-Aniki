@@ -24,7 +24,7 @@
      aberrações não surgem do nada. toda história tem uma origem.
 ──────────────────────────────────────────────────── -->
 
-## `[ capítulo I ]` &nbsp; uma pequena aberração chamada eu
+## `[ capítulo I ]` &nbsp; uma pequena esquisitice chamada eu
 
 Olá. Sou estudante de **Desenvolvimento de Software** na FATEC Zona Leste — mas essa não é a primeira página da minha historieta. Já trilhei o caminho da **Gestão da Tecnologia da Informação** na FATEC Itaquaquecetuba, o que me deu uma visão mais ampla de onde o código se encontra com o mundo real.
 
